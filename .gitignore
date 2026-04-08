@@ -1,9 +1,7 @@
-data/raw/ 
-data/processed/ 
-__pycache__/ 
-*.pyc 
-.ipynb_checkpoints/ 
-.venv/data/banco.db 
-data/banco.db 
-data/banco.db 
-notebooks/data/banco.db 
+.venv/
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+docs/
+models/
