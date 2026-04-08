@@ -5,3 +5,5 @@ __pycache__/
 .ipynb_checkpoints/ 
 .venv/data/banco.db 
 data/banco.db 
+data/banco.db 
+notebooks/data/banco.db 
